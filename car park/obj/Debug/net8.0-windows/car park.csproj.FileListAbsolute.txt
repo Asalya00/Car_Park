@@ -1,0 +1,18 @@
+C:\Users\gunar\OneDrive\Desktop\car park\car park\bin\Debug\net8.0-windows\car park.exe
+C:\Users\gunar\OneDrive\Desktop\car park\car park\bin\Debug\net8.0-windows\car park.deps.json
+C:\Users\gunar\OneDrive\Desktop\car park\car park\bin\Debug\net8.0-windows\car park.runtimeconfig.json
+C:\Users\gunar\OneDrive\Desktop\car park\car park\bin\Debug\net8.0-windows\car park.dll
+C:\Users\gunar\OneDrive\Desktop\car park\car park\bin\Debug\net8.0-windows\car park.pdb
+C:\Users\gunar\OneDrive\Desktop\car park\car park\obj\Debug\net8.0-windows\car_park.Form1.resources
+C:\Users\gunar\OneDrive\Desktop\car park\car park\obj\Debug\net8.0-windows\car_park.Properties.Resources.resources
+C:\Users\gunar\OneDrive\Desktop\car park\car park\obj\Debug\net8.0-windows\car park.csproj.GenerateResource.cache
+C:\Users\gunar\OneDrive\Desktop\car park\car park\obj\Debug\net8.0-windows\car park.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gunar\OneDrive\Desktop\car park\car park\obj\Debug\net8.0-windows\car park.AssemblyInfoInputs.cache
+C:\Users\gunar\OneDrive\Desktop\car park\car park\obj\Debug\net8.0-windows\car park.AssemblyInfo.cs
+C:\Users\gunar\OneDrive\Desktop\car park\car park\obj\Debug\net8.0-windows\car park.csproj.CoreCompileInputs.cache
+C:\Users\gunar\OneDrive\Desktop\car park\car park\obj\Debug\net8.0-windows\car park.sourcelink.json
+C:\Users\gunar\OneDrive\Desktop\car park\car park\obj\Debug\net8.0-windows\car park.dll
+C:\Users\gunar\OneDrive\Desktop\car park\car park\obj\Debug\net8.0-windows\refint\car park.dll
+C:\Users\gunar\OneDrive\Desktop\car park\car park\obj\Debug\net8.0-windows\car park.pdb
+C:\Users\gunar\OneDrive\Desktop\car park\car park\obj\Debug\net8.0-windows\car park.genruntimeconfig.cache
+C:\Users\gunar\OneDrive\Desktop\car park\car park\obj\Debug\net8.0-windows\ref\car park.dll
